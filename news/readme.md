@@ -1,0 +1,1 @@
+.env檔的DB_DATABASE=news
